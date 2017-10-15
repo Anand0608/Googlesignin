@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "996685897992",
+    "project_id": "vital-lyceum-179418"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:996685897992:android:75986c41fd36bfe3",
+        "android_client_info": {
+          "package_name": "prakash.com.googlesignin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "996685897992-3uhqq8drt3m26h8ub1n0ndthlva71gs7.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "996685897992-7t914r02psgqnn5gdrbcfm9uu825abud.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "prakash.com.googlesignin",
+            "certificate_hash": "b43940f4c953bdc14d91ebe1c159f72bd1c3fb74"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBMzZh6awv2kB5o-nTl-bpkPlnhP5QlD_0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
